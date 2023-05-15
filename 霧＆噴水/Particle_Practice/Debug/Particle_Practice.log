@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\fumit\Desktop\パーティクル効果（DXライブラリ使用）\Particle_Practice\Particle_Practice\main.cpp(53,38): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\パーティクル効果（DXライブラリ使用）\Particle_Practice\Particle_Practice\main.cpp(57,38): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\パーティクル効果（DXライブラリ使用）\Particle_Practice\Particle_Practice\main.cpp(61,38): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\パーティクル効果（DXライブラリ使用）\Particle_Practice\Particle_Practice\main.cpp(65,38): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\パーティクル効果（DXライブラリ使用）\Particle_Practice\Particle_Practice\main.cpp(169,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\パーティクル効果（DXライブラリ使用）\Particle_Practice\Particle_Practice\main.cpp(170,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\パーティクル効果（DXライブラリ使用）\Particle_Practice\Particle_Practice\main.cpp(268,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\パーティクル効果（DXライブラリ使用）\Particle_Practice\Particle_Practice\main.cpp(267,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\パーティクル効果（DXライブラリ使用）\Particle_Practice\Particle_Practice\main.cpp(43): warning C4715: 'LoadTexture': 値を返さないコントロール パスがあります。
+  Particle_Practice.vcxproj -> C:\Users\fumit\Desktop\パーティクル効果（DXライブラリ使用）\Particle_Practice\Debug\Particle_Practice.exe

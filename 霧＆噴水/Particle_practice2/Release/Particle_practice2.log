@@ -1,0 +1,6 @@
+﻿  コード生成しています。
+  Previous IOBJ not found, fall back to full compilation.
+C:\FumitetsuLeeMac\DXLibrary\Devoirs de DXLib\Particle_Practice\Particle_practice2\Main2.cpp(42): warning C4715: 'LoadTexture': 値を返さないコントロール パスがあります。
+C:\FumitetsuLeeMac\DXLibrary\Devoirs de DXLib\Particle_Practice\Particle_practice2\Main2.cpp(112): error C4700: 初期化されていないローカル変数 'keys' が使用されます
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: コードの生成に失敗しました。

@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\fumit\Desktop\Syukatsu\パーティクル効果（DXライブラリ使用）\ファイア＆エクスプロージョン\ParticleSystem\Main.cpp(61,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\Syukatsu\パーティクル効果（DXライブラリ使用）\ファイア＆エクスプロージョン\ParticleSystem\Main.cpp(62,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\Syukatsu\パーティクル効果（DXライブラリ使用）\ファイア＆エクスプロージョン\ParticleSystem\Main.cpp(63,31): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\Syukatsu\パーティクル効果（DXライブラリ使用）\ファイア＆エクスプロージョン\ParticleSystem\Main.cpp(77,36): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\Syukatsu\パーティクル効果（DXライブラリ使用）\ファイア＆エクスプロージョン\ParticleSystem\Main.cpp(186,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\Syukatsu\パーティクル効果（DXライブラリ使用）\ファイア＆エクスプロージョン\ParticleSystem\Main.cpp(187,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\Syukatsu\パーティクル効果（DXライブラリ使用）\ファイア＆エクスプロージョン\ParticleSystem\Main.cpp(273,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\Syukatsu\パーティクル効果（DXライブラリ使用）\ファイア＆エクスプロージョン\ParticleSystem\Main.cpp(272,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\Syukatsu\パーティクル効果（DXライブラリ使用）\ファイア＆エクスプロージョン\ParticleSystem\Main.cpp(55): warning C4715: 'LoadTexture': 値を返さないコントロール パスがあります。
+  ParticleSystem.vcxproj -> C:\Users\fumit\Desktop\Syukatsu\パーティクル効果（DXライブラリ使用）\ファイア＆エクスプロージョン\Debug\ParticleSystem.exe
